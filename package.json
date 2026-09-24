@@ -1,0 +1,29 @@
+{
+  "name": "ai-citizen-grievance-platform",
+  "version": "1.0.0",
+  "description": "AI-Powered Citizen Grievance Redressal Platform with Computer Vision, Multilingual Voice, GPS Routing, Duplicate Detection, Supabase Cloud PostgreSQL, and Municipal Admin Operations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "civic-tech",
+    "grievance-redressal",
+    "smart-city",
+    "computer-vision",
+    "multilingual",
+    "supabase"
+  ],
+  "author": "NagarikAI Team",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "isomorphic-git": "^1.42.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}

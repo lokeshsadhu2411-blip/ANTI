@@ -1,0 +1,278 @@
+[
+  {
+    "id": "CIVIC-1001",
+    "title": "Severe Pothole Cluster on Main Arterial Road",
+    "category": "potholes",
+    "categoryLabel": "Potholes & Road Cracks",
+    "description": "Deep asphalt crater (approx. 80cm wide, 15cm deep) located near Metro Pillar 142. Causing severe traffic slowdown and hazard for two-wheeler commuters.",
+    "severity": "High",
+    "department": "Roads, Bridges & Pavements Wing",
+    "status": "In Progress",
+    "location": {
+      "lat": 17.4435,
+      "lng": 78.3772,
+      "address": "Opposite Cyber Towers, Hitec City Road",
+      "landmark": "Near Metro Pillar 142",
+      "ward": "Ward 104 - Kondapur",
+      "city": "Hyderabad"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?auto=format&fit=crop&w=800&q=80",
+    "upvotes": 24,
+    "reportedAt": "2026-09-21T09:15:00Z",
+    "slaHours": 48,
+    "assignedOfficer": {
+      "name": "K. Srinivas Rao",
+      "role": "Assistant Engineer (Roads)",
+      "phone": "+91 98490 12345",
+      "badgeId": "PWD-HYD-409"
+    },
+    "timeline": [
+      {
+        "status": "Reported",
+        "timestamp": "2026-09-21T09:15:00Z",
+        "note": "Citizen filed grievance via AI Vision Scanner."
+      },
+      {
+        "status": "Triaged",
+        "timestamp": "2026-09-21T09:15:10Z",
+        "note": "AI categorized issue as Pothole (Confidence: 97.8%). Severity rated High."
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-09-21T11:30:00Z",
+        "note": "Routed to Roads Wing, AE K. Srinivas Rao assigned."
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-09-22T08:00:00Z",
+        "note": "Cold-mix asphalt patch crew deployed to site."
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-1002",
+    "title": "Overflowing Public Garbage Dump & Debris",
+    "category": "garbage",
+    "categoryLabel": "Solid Waste & Garbage Dumps",
+    "description": "Massive uncollected garbage accumulation overflowing onto sidewalk for over 3 days. Foul odor, attracting stray animals and blocking pedestrian access.",
+    "severity": "Critical",
+    "department": "Solid Waste Management & Sanitation",
+    "status": "Reported",
+    "location": {
+      "lat": 17.4399,
+      "lng": 78.3912,
+      "address": "Road No. 36, Jubilee Hills Extension",
+      "landmark": "Near Municipal Community Hall",
+      "ward": "Ward 98 - Jubilee Hills",
+      "city": "Hyderabad"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1605600659908-0ef719419d41?auto=format&fit=crop&w=800&q=80",
+    "upvotes": 38,
+    "reportedAt": "2026-09-23T06:45:00Z",
+    "slaHours": 24,
+    "assignedOfficer": null,
+    "timeline": [
+      {
+        "status": "Reported",
+        "timestamp": "2026-09-23T06:45:00Z",
+        "note": "Reported by citizen using Telugu Voice command."
+      },
+      {
+        "status": "Triaged",
+        "timestamp": "2026-09-23T06:45:12Z",
+        "note": "AI Vision detected Solid Waste Accumulation (Confidence: 98.2%). Priority: Critical."
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-1003",
+    "title": "Continuous Drinking Water Pipeline Leakage",
+    "category": "water_leak",
+    "categoryLabel": "Water Supply & Pipe Bursts",
+    "description": "High pressure potable water gushing from underground pipeline joint onto the street. Thousands of liters wasted daily, reducing water pressure to residential houses.",
+    "severity": "High",
+    "department": "Water Supply & Sewerage Board",
+    "status": "Assigned",
+    "location": {
+      "lat": 17.4244,
+      "lng": 78.4485,
+      "address": "Banjara Hills Road No. 12",
+      "landmark": "Beside City Center Mall Junction",
+      "ward": "Ward 92 - Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1542013936693-884638332954?auto=format&fit=crop&w=800&q=80",
+    "upvotes": 17,
+    "reportedAt": "2026-09-22T14:20:00Z",
+    "slaHours": 48,
+    "assignedOfficer": {
+      "name": "M. Ramesh Kumar",
+      "role": "Water Line Inspector",
+      "phone": "+91 94401 56789",
+      "badgeId": "HMWSSB-512"
+    },
+    "timeline": [
+      {
+        "status": "Reported",
+        "timestamp": "2026-09-22T14:20:00Z",
+        "note": "Citizen submitted grievance with GPS coordinate tagging."
+      },
+      {
+        "status": "Triaged",
+        "timestamp": "2026-09-22T14:20:15Z",
+        "note": "Auto-routed to HMWSSB Water Supply Division."
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-09-22T16:00:00Z",
+        "note": "Inspector M. Ramesh Kumar assigned for pipeline valve shutdown & replacement."
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-1004",
+    "title": "Non-Functional Streetlights on School Road",
+    "category": "streetlights",
+    "categoryLabel": "Broken / Dark Streetlights",
+    "description": "Entire stretch of 6 consecutive streetlights are dead for the past week. Pitch dark stretch near Govt Girls High School posing security concern for students and women.",
+    "severity": "Medium",
+    "department": "Electrical & Street Lighting Wing",
+    "status": "Resolved",
+    "location": {
+      "lat": 17.4065,
+      "lng": 78.4772,
+      "address": "Station Road, Nampally",
+      "landmark": "Opposite Zilla Parishad High School",
+      "ward": "Ward 77 - Nampally",
+      "city": "Hyderabad"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?auto=format&fit=crop&w=800&q=80",
+    "upvotes": 29,
+    "reportedAt": "2026-09-18T19:30:00Z",
+    "slaHours": 72,
+    "assignedOfficer": {
+      "name": "S. Venkat Reddy",
+      "role": "Electrical Supervisor",
+      "phone": "+91 98850 33441",
+      "badgeId": "ELEC-GHMC-201"
+    },
+    "resolutionProof": {
+      "imageUrl": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&w=800&q=80",
+      "resolvedAt": "2026-09-20T17:15:00Z",
+      "officerNotes": "Replaced burned capacitor box and installed new 90W LED fixtures across poles #12 to #17. Tested illumination lux levels.",
+      "officerName": "S. Venkat Reddy"
+    },
+    "timeline": [
+      {
+        "status": "Reported",
+        "timestamp": "2026-09-18T19:30:00Z",
+        "note": "Citizen filed grievance via web portal."
+      },
+      {
+        "status": "Triaged",
+        "timestamp": "2026-09-18T19:30:08Z",
+        "note": "AI categorized as Streetlight Defect. Auto-assigned to Ward 77 Electrical Wing."
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-09-19T09:00:00Z",
+        "note": "Officer S. Venkat Reddy dispatched."
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-09-20T14:00:00Z",
+        "note": "Hydraulic sky-lift deployed on site for LED fixture replacement."
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-09-20T17:15:00Z",
+        "note": "Grievance resolved and verified with proof photo."
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-1005",
+    "title": "Open Drainage Manhole & Severe Sewage Overflow",
+    "category": "drainage",
+    "categoryLabel": "Drainage Overflow & Sewage",
+    "description": "Broken concrete manhole slab creating a dangerous gaping hole on street corner. Sewage water overflowing onto residential walkway with extreme mosquito breeding risk.",
+    "severity": "Critical",
+    "department": "Water Supply & Sewerage Board",
+    "status": "In Progress",
+    "location": {
+      "lat": 17.4504,
+      "lng": 78.3808,
+      "address": "Madhapur Main 100ft Road",
+      "landmark": "Near Ayyappa Society Arch",
+      "ward": "Ward 107 - Madhapur",
+      "city": "Hyderabad"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=800&q=80",
+    "upvotes": 42,
+    "reportedAt": "2026-09-22T07:10:00Z",
+    "slaHours": 24,
+    "assignedOfficer": {
+      "name": "Md. Tariq Anwar",
+      "role": "Sanitary Inspector",
+      "phone": "+91 97010 44211",
+      "badgeId": "SWM-HYD-882"
+    },
+    "timeline": [
+      {
+        "status": "Reported",
+        "timestamp": "2026-09-22T07:10:00Z",
+        "note": "Filed via citizen camera snapshot."
+      },
+      {
+        "status": "Triaged",
+        "timestamp": "2026-09-22T07:10:09Z",
+        "note": "AI tagged as Critical Drainage Hazard. 24h SLA triggered."
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-09-22T08:30:00Z",
+        "note": "Assigned to Emergency Sewerage Response Team."
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-09-22T10:00:00Z",
+        "note": "Barricades placed. High-pressure jetting machine clearing drainage blockage."
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-1006",
+    "title": "Damaged Road Surface & Hazardous Trench",
+    "category": "road_damage",
+    "categoryLabel": "Road Damage & Hazard",
+    "description": "Telecom excavation trench left unpaved without warning signs or reflectors. Edge of road has collapsed, endangering school buses and commuters.",
+    "severity": "High",
+    "department": "Roads, Bridges & Pavements Wing",
+    "status": "Reported",
+    "location": {
+      "lat": 17.3850,
+      "lng": 78.4867,
+      "address": "Koti Bank Street, Sultan Bazaar",
+      "landmark": "Near State Bank of India Branch",
+      "ward": "Ward 55 - Koti",
+      "city": "Hyderabad"
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=800&q=80",
+    "upvotes": 12,
+    "reportedAt": "2026-09-23T11:00:00Z",
+    "slaHours": 48,
+    "assignedOfficer": null,
+    "timeline": [
+      {
+        "status": "Reported",
+        "timestamp": "2026-09-23T11:00:00Z",
+        "note": "Reported with photo verification."
+      },
+      {
+        "status": "Triaged",
+        "timestamp": "2026-09-23T11:00:15Z",
+        "note": "AI categorized as Hazardous Road Damage. Ward 55 Engineer notified."
+      }
+    ]
+  }
+]

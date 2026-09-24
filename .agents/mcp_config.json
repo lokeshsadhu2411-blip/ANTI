@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "supabase-remote": {
+      "serverUrl": "https://mcp.supabase.com/mcp?features=docs,database,development,functions,branching"
+    },
+    "supabase-local": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@supabase/mcp-server-supabase@latest"
+      ],
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": ""
+      }
+    }
+  }
+}
