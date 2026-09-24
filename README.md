@@ -1,4 +1,4 @@
-# NagarikAI - AI Citizen Grievance Redressal & Smart Civic Action Platform
+# AI Citizen Grievance Redressal & Smart Civic Action Platform
 
 ![NagarikAI Civic Platform](https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1200&q=80)
 
